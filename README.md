@@ -1,4 +1,4 @@
-# 🎮 Landing Page – GTA V
+# 🎮 Página interativa – GTA V
 
 Projeto front-end desenvolvido durante a **Semana do 0 ao Programador**, do canal **Dev em Dobro (2024)**, com foco em estruturação de páginas web, estilização avançada em CSS e interações simples com JavaScript.
 
