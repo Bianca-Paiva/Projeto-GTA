@@ -55,12 +55,6 @@ O projeto foi desenvolvido pensando em múltiplos dispositivos, com ajustes espe
 
 ---
 
-## 🚀 Status do Projeto
-
-✔️ Concluído — projeto de estudo e prática em front-end.
-
----
-
 ## 👩‍💻 Autora
 
 Desenvolvido por **Bianca Silveria Paiva**  
