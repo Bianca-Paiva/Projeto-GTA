@@ -54,7 +54,7 @@ O projeto foi desenvolvido pensando em múltiplos dispositivos, com ajustes espe
 
 ---
 
-## 👩‍💻 Autora
+## 👩🏻‍💻 Autora
 Desenvolvido por **Bianca Silveria Paiva**  
 Curso Dev em Dobro — Projeto GTA V (2024)  
 
